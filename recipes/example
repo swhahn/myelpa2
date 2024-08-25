@@ -1,0 +1,6 @@
+(example
+ :fetcher git
+ :url "git@github.com:swhahn/test.git"
+ :branch "master"
+ :files ("lisp/*.el")
+)
