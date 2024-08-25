@@ -1,0 +1,2 @@
+(1
+ (example . [(20240824 1236) ((emacs (29 1)) (ivy (0 14 2)) (org (9 6))) "Test package-vc with use-package" tar ((:commit . "cb06fa5cc5bcd8a3e005ddbabc59d93bc87fe444") (:authors ("Stefan-W. Hahn" . "stefan.hahn@s-hahn.de")) (:maintainers ("Stefan-W. Hahn" . "stefan.hahn@s-hahn.de")) (:maintainer "Stefan-W. Hahn" . "stefan.hahn@s-hahn.de") (:keywords "convenience" "org" "tools"))]))
